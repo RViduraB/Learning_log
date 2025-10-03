@@ -16,7 +16,7 @@ In this practical i developed a basic connetion with Cisco Packet Tracer (CPT), 
 ▶️: Copper cross  
 
 ## 📊 Network Toology
-![Basic network topology](basic.png)
+![Basic network topology](topology.png)
 
 ## 🌐Configuration and Code Snippts
 
@@ -122,6 +122,6 @@ switchport trunk allowed vlan add 20
 ## ☑️ Verfication and Testing
 #### ☑️ PC1 to PC4 Ping test  
 ping 192.168.20.2
-
+![testing_ping](testingping.png)
 #### ☑️ PC1 to PC2 Trace Route
-tracert 192.168.0.2
+tracert 192.168.20.2
