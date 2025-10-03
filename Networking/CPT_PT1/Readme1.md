@@ -16,7 +16,7 @@ In this practical i develooment a basic connetion with Cisco Packet Tracer (CPT)
 ▶️: Copper cross  
 
 ## 📊 Network Toology
-![Basic network topology](basic.png)
+![Basic network topology](topology.png)
 
 ## 🌐Configuration and Code Snippts
 
