@@ -58,7 +58,8 @@ exit
 
 ## ☑️ Verfication and Testing
 #### ☑️ PC1 to PC2 Ping test  
-ping 192.168.0.1
+ping 192.168.0.1  
+![ping_command](ping.png)
 
 #### ☑️ PC1 to PC2 Trace Route
 tracert 192.168.0.2
