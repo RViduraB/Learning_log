@@ -17,7 +17,7 @@ In this practical work i studied how to perform the **static routing** with Cisc
 ▶️: HWIC2T Serial Ports  
 
 ## 📊 Network Toology
-![Basic network topology](basic.png)
+![Basic network topology](topology.png)
 
 ## 🌐Configuration and Code Snippts
 
@@ -75,6 +75,7 @@ exit
 
 ## ☑️ Verfication and Testing
 
+![tsting](test.png)
 #### ☑️ PC1 to PC2 Ping test  
 ping 192.168.2.2
 
