@@ -107,11 +107,11 @@ exit
 
 #### ☑️ PC1 to PC2 Ping test  
 ping 172.17.20.10
-![ping test](ping.png)
+![ping test](ping.png)  
 
 
 #### ☑️ PC1 to PC2 Trace Route
-tracert 172.17.20.10
-![trace Router](trace1.png)
+tracert 172.17.20.10  
+![trace Router](trace1.png)  
 ![trace Router](trace2.png)
 
