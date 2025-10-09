@@ -17,7 +17,7 @@ In this practical i established a netwrok that works with inter VLan connection 
 ▶️: 2960 Switch  
 
 ## 📊 Network Toology
-![Basic network topology](basic.png)
+![Basic network topology](topology.png)
 
 ## 🌐Configuration and Code Snippts
 
@@ -107,10 +107,11 @@ exit
 
 #### ☑️ PC1 to PC2 Ping test  
 ping 172.17.20.10
-
-
-
+![ping test](ping.png)
 
 
 #### ☑️ PC1 to PC2 Trace Route
 tracert 172.17.20.10
+![trace Router](trace1.png)
+![trace Router](trace2.png)
+
